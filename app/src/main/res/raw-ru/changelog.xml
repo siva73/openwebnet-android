@@ -3,31 +3,31 @@
 
     <changelogversion changeDate="10 февраля 2019 г." versionName="3.2.0">
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Поделиться профилями]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Копирование профиля]]>
         </changelogtext>
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Перевести логи]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Перевод логов]]>
         </changelogtext>
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Незначительные изменения стиля]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Незначительные изменения стиля]]>
         </changelogtext>
     </changelogversion>
 
     <changelogversion changeDate="1 января 2019 г." versionName="3.1.1">
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Незначительные исправления]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Незначительные исправления]]>
         </changelogtext>
     </changelogversion>
 
     <changelogversion changeDate="30 декабря 2018 г." versionName="3.1.0">
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Обновить стили профиля]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Обновленные стили профиля]]>
         </changelogtext>
     </changelogversion>
 
     <changelogversion changeDate="29 декабря 2018 г." versionName="3.0.0">
         <changelogtext>
-            <![CDATA[<b><font color=red>Новый!</font></b> Резервные профили]]>
+            <![CDATA[<b><font color=red>Новое:</font></b> Резервные профили]]>
         </changelogtext>
     </changelogversion>
 
